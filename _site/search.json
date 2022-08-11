@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "landing.html#workshop-date",
-    "href": "landing.html#workshop-date",
+    "objectID": "landing.html",
+    "href": "landing.html",
     "title": "First International Workshop on Interdisciplinary Paradigms for Semi-Autonomous Deep-Space Habitation",
-    "section": "Workshop Date:",
-    "text": "Workshop Date:\n13-14 October, 2022"
+    "section": "",
+    "text": "13-14 October, 2022"
   },
   {
     "objectID": "landing.html#workshop-location",
@@ -25,6 +25,27 @@
     "href": "landing.html#details",
     "title": "First International Workshop on Interdisciplinary Paradigms for Semi-Autonomous Deep-Space Habitation",
     "section": "Details",
-    "text": "Details\nAttendees and presenters will consist of NASA subject matter experts, astronauts, space industry leaders, university researchers, and PIs and students from the SmartHabs Institutes.\nThough the workshop will not have proceedings or a formal peer-review procedure, we will require 1-page abstract/position paper submissions from participants. These abstracts will be reviewed to develop the program and allocate oral, poster and panel presentations of the work being discussed.\nAbstracts will be due August 29, 2022, so please plan accordingly. More details will follow on registration, abstract submission, and hotel reservations."
+    "text": "Details\nAttendees and presenters will consist of NASA subject matter experts, astronauts, space industry leaders, university researchers, and PIs and students from the SmartHabs Institutes.\nThough the workshop will not have proceedings or a formal peer-review procedure, we will require 1-page abstract/position paper submissions from participants. These abstracts will be reviewed to develop the program and allocate oral, poster and panel presentations of the work being discussed.\nAbstracts are due August 29, 2022, so please plan accordingly."
+  },
+  {
+    "objectID": "landing.html#registration",
+    "href": "landing.html#registration",
+    "title": "First International Workshop on Interdisciplinary Paradigms for Semi-Autonomous Deep-Space Habitation",
+    "section": "Registration",
+    "text": "Registration\nYou can now register for the event by following this link: https://smarthab2022.eventbrite.com"
+  },
+  {
+    "objectID": "landing.html#abstract-submission",
+    "href": "landing.html#abstract-submission",
+    "title": "First International Workshop on Interdisciplinary Paradigms for Semi-Autonomous Deep-Space Habitation",
+    "section": "Abstract Submission",
+    "text": "Abstract Submission\nYou can now submit an abstract by following this link: https://cmt3.research.microsoft.com/SMARTHAB2022"
+  },
+  {
+    "objectID": "landing.html#travel-and-lodging",
+    "href": "landing.html#travel-and-lodging",
+    "title": "First International Workshop on Interdisciplinary Paradigms for Semi-Autonomous Deep-Space Habitation",
+    "section": "Travel and Lodging",
+    "text": "Travel and Lodging\nWe have reserved some rooms at the DobuleTree by Hilton very close to where we will have the workshop. You can use this link to book a room."
   }
 ]
