@@ -1,0 +1,39 @@
+---
+title: "Agenda (a work in progress)"
+---
+
+### Day 1
+
+| Time | Activity |
+|------|---------------|
+| 7:30am | Breakfast and Registration |
+| 8:15am | Welcome and Opening Remarks |
+| 8:50am | Discussion of Agenda and Objectives of the Workshoo | 
+| 9:00am | Plenary Session: Invited Talks |
+| 10:00am | Q & A Session |
+| 10:20am | Break |
+| 10:40am | Panel Session I |
+| 11:40am | Reveiw Organization and Expectations for Afternoon Breakout Sessions |
+| 12:00pm | Group Picture |
+| 12:15pm | Lunch |
+| 1:15pm | Breakout Sessions |
+| 3:15pm | Break |
+| 3:30pm | Report Results of Breakout Sessions |
+| 5:30pm | Review Expectation and Organizaton of Day 2 |
+| 5:45pm | Break |
+| 6:00pm | Reception with Poster Session |
+
+### Day 2
+
+| Time | Activity |
+|------|---------------|
+| 7:30am | Breakfast and Presentations |
+| 8:50am | Summary of Day 1 and Plan for Day 2 |
+| 9:00am | Invited Talks |
+| 10:00am | Q & A Session |
+| 10:20am | Break |
+| 10:40am | Panel Session II |
+| 12:00pm | Summary and Closing Session |
+|         | "Expanding the Vision of Science and Engineering to Achieve Resilient Long-Term Extraterrestrial Habitasts" |
+|         | **Moderator**: Dan Dumbacher, Executive Director, American Institute of Aeronautics & Astronautics (AIAA) |
+| 1:00pm | Lunch |

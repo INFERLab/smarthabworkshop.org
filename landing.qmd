@@ -2,11 +2,11 @@
 title: "First International Workshop on Interdisciplinary Paradigms for Semi-Autonomous Deep-Space Habitation"
 ---
 
-## Workshop Date:
+## Workshop Date
 
 **13-14 October, 2022**
 
-## Workshop Location:
+## Workshop Location
 
 **University of Texas San Antonio, Downtown**
 
@@ -25,7 +25,7 @@ Attendees and presenters will consist of NASA subject matter experts, astronauts
 
 Though the workshop will not have proceedings or a formal peer-review procedure, we will require 1-page abstract/position paper submissions from participants. These abstracts will be reviewed to develop the program and allocate oral, poster and panel presentations of the work being discussed. 
 
-Abstracts are due August 29, 2022, so please plan accordingly.
+Abstracts are due *August 29, 2022*, so please plan accordingly.
 
 ## Registration
 
@@ -38,4 +38,7 @@ You can now submit an abstract by following this link: [https://cmt3.research.mi
 ## Travel and Lodging
 
 We have reserved some rooms at the DobuleTree by Hilton very close to where we will have the workshop. You can use [this link](https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=SATDWDT&arrivalDate=2022-10-12&departureDate=2022-10-14&groupCode=CDTUTC&room1NumAdults=1&cid=OM%2CWW%2CHILTONLINK%2CEN%2CDirectLink) to book a room. 
- 
+
+## Agenda (preliminary)
+
+We will keep a continuosly evolving agenda for the event [here](agenda.html).  
