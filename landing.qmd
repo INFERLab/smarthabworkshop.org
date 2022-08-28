@@ -42,3 +42,11 @@ We have reserved some rooms at the DobuleTree by Hilton very close to where we w
 ## Agenda (preliminary)
 
 We will keep a continuosly evolving agenda for the event [here](agenda.html).  
+
+
+## Organizing Team
+
+For any questions or comments, please reach out to the co-chairs of the workshop:
+
+* [Dawn Whitaker](mailto:dwhitaker@purdue.edu), Purdue University
+* [Mario Bergés](mailto:marioberges@cmu.edu), Carnegie Mellon University
