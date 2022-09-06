@@ -2,8 +2,9 @@
 title: "Agenda (a work in progress)"
 ---
 
-### Day 1
+### October 13, 2022 (Day 1)
 
+|------|---------------|
 | Time | Activity |
 |------|---------------|
 | 7:30am | Breakfast and Registration |
@@ -23,8 +24,9 @@ title: "Agenda (a work in progress)"
 | 5:45pm | Break |
 | 6:00pm | Reception with Poster Session |
 
-### Day 2
+### October 14, 2022 (Day 2)
 
+|------|---------------|
 | Time | Activity |
 |------|---------------|
 | 7:30am | Breakfast and Presentations |
@@ -32,7 +34,7 @@ title: "Agenda (a work in progress)"
 | 9:00am | Session 3: Design for Resilience in Space-based Systems |
 | 10:00am | Q & A Session |
 | 10:20am | Break |
-| 10:40am | Modular Coupled Virtual Testbed and Digital Twin Build-out and Utilization |
+| 10:40am | Session 4: Modular Coupled Virtual Testbed and Digital Twin Build-out and Utilization |
 | 12:00pm | Summary and Closing Session |
 |         | "Expanding the Vision of Science and Engineering to Achieve Resilient Long-Term Extraterrestrial Habitasts" |
 |         | **Moderator**: Dan Dumbacher, Executive Director, American Institute of Aeronautics & Astronautics (AIAA) |

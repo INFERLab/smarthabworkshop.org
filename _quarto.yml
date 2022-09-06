@@ -7,8 +7,10 @@ website:
     type: dark
     background: primary
     left:
-      - href: landing.qmd
+      - href: index.qmd
         text: Home
+      - href: agenda.qmd
+        text: Agenda
 
 format:
   html:
