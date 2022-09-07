@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.38">
+<meta name="generator" content="quarto-1.1.189">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,10 +11,15 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
 </style>
 
 
@@ -64,9 +69,11 @@ ul.task-list{list-style: none;}
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <a class="navbar-brand" href="./index.html">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">SmartHab Workshop 2022</span>
-  </a>
+    </a>
+  </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
@@ -89,7 +96,7 @@ ul.task-list{list-style: none;}
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc">
+        <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
@@ -119,11 +126,141 @@ ul.task-list{list-style: none;}
 
 <section id="october-13-2022-day-1" class="level3">
 <h3 class="anchored" data-anchor-id="october-13-2022-day-1">October 13, 2022 (Day 1)</h3>
-<p>|——|—————| | Time | Activity | |——|—————| | 7:30am | Breakfast and Registration | | 8:15am | Welcome and Opening Remarks | | 8:50am | Discussion of Agenda and Objectives of the Workshop | | 9:00am | Session 1: Deep-Space Habitat Scenario Development - Collaboration and Complementation | | 10:00am | Q &amp; A Session | | 10:20am | Break | | 10:40am | Session 2: Roadmap for Introducing Autonomy and Robotics in Intermittently Crewed Space Habitats | | 11:40am | Review Organization and Expectations for Afternoon Breakout Sessions | | 12:00pm | Group Picture | | 12:15pm | Lunch | | 1:15pm | Breakout Sessions | | 3:15pm | Break | | 3:30pm | Report Results of Breakout Sessions | | 5:30pm | Review Expectation and Organizaton of Day 2 | | 5:45pm | Break | | 6:00pm | Reception with Poster Session |</p>
+<table class="table">
+<colgroup>
+<col style="width: 28%">
+<col style="width: 71%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Time</th>
+<th>Activity</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>7:30am</td>
+<td>Breakfast and Registration</td>
+</tr>
+<tr class="even">
+<td>8:15am</td>
+<td>Welcome and Opening Remarks</td>
+</tr>
+<tr class="odd">
+<td>8:50am</td>
+<td>Discussion of Agenda and Objectives of the Workshop</td>
+</tr>
+<tr class="even">
+<td>9:00am</td>
+<td>Session 1: Deep-Space Habitat Scenario Development - Collaboration and Complementation</td>
+</tr>
+<tr class="odd">
+<td>10:00am</td>
+<td>Q &amp; A Session</td>
+</tr>
+<tr class="even">
+<td>10:20am</td>
+<td>Break</td>
+</tr>
+<tr class="odd">
+<td>10:40am</td>
+<td>Session 2: Roadmap for Introducing Autonomy and Robotics in Intermittently Crewed Space Habitats</td>
+</tr>
+<tr class="even">
+<td>11:40am</td>
+<td>Review Organization and Expectations for Afternoon Breakout Sessions</td>
+</tr>
+<tr class="odd">
+<td>12:00pm</td>
+<td>Group Picture</td>
+</tr>
+<tr class="even">
+<td>12:15pm</td>
+<td>Lunch</td>
+</tr>
+<tr class="odd">
+<td>1:15pm</td>
+<td>Breakout Sessions</td>
+</tr>
+<tr class="even">
+<td>3:15pm</td>
+<td>Break</td>
+</tr>
+<tr class="odd">
+<td>3:30pm</td>
+<td>Report Results of Breakout Sessions</td>
+</tr>
+<tr class="even">
+<td>5:30pm</td>
+<td>Review Expectation and Organizaton of Day 2</td>
+</tr>
+<tr class="odd">
+<td>5:45pm</td>
+<td>Break</td>
+</tr>
+<tr class="even">
+<td>6:00pm</td>
+<td>Reception with Poster Session</td>
+</tr>
+</tbody>
+</table>
 </section>
 <section id="october-14-2022-day-2" class="level3">
 <h3 class="anchored" data-anchor-id="october-14-2022-day-2">October 14, 2022 (Day 2)</h3>
-<p>|——|—————| | Time | Activity | |——|—————| | 7:30am | Breakfast and Presentations | | 8:50am | Summary of Day 1 and Plan for Day 2 | | 9:00am | Session 3: Design for Resilience in Space-based Systems | | 10:00am | Q &amp; A Session | | 10:20am | Break | | 10:40am | Session 4: Modular Coupled Virtual Testbed and Digital Twin Build-out and Utilization | | 12:00pm | Summary and Closing Session | | | “Expanding the Vision of Science and Engineering to Achieve Resilient Long-Term Extraterrestrial Habitasts” | | | <strong>Moderator</strong>: Dan Dumbacher, Executive Director, American Institute of Aeronautics &amp; Astronautics (AIAA) | | 1:00pm | Lunch |</p>
+<table class="table">
+<colgroup>
+<col style="width: 28%">
+<col style="width: 71%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Time</th>
+<th>Activity</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>7:30am</td>
+<td>Breakfast and Presentations</td>
+</tr>
+<tr class="even">
+<td>8:50am</td>
+<td>Summary of Day 1 and Plan for Day 2</td>
+</tr>
+<tr class="odd">
+<td>9:00am</td>
+<td>Session 3: Design for Resilience in Space-based Systems</td>
+</tr>
+<tr class="even">
+<td>10:00am</td>
+<td>Q &amp; A Session</td>
+</tr>
+<tr class="odd">
+<td>10:20am</td>
+<td>Break</td>
+</tr>
+<tr class="even">
+<td>10:40am</td>
+<td>Session 4: Modular Coupled Virtual Testbed and Digital Twin Build-out and Utilization</td>
+</tr>
+<tr class="odd">
+<td>12:00pm</td>
+<td>Summary and Closing Session</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>“Expanding the Vision of Science and Engineering to Achieve Resilient Long-Term Extraterrestrial Habitasts”</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><strong>Moderator</strong>: Dan Dumbacher, Executive Director, American Institute of Aeronautics &amp; Astronautics (AIAA)</td>
+</tr>
+<tr class="even">
+<td>1:00pm</td>
+<td>Lunch</td>
+</tr>
+</tbody>
+</table>
 
 
 </section>
@@ -198,7 +335,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
