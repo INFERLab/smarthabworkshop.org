@@ -32,7 +32,7 @@ title: "Agenda (a work in progress)"
 | 8:00am | Breakout Session |
 | 8:45am | Break |
 | 9:00am | Report Results of Breakout Session 3 |
-| 9:20am | Session 4: Modular Coupled Virtual Testbed and Digital Twin Build-out and Utilization 
+| 9:20am | Session 4: Use Cases for Modular Coupled Virtual Testbed and Digital Twins in SmartHabs | 
 | 10:20am | Breakout Session 4 |
 | 11:05am | Break |
 | 11:20am | Report of Breakout Session 4 | 
