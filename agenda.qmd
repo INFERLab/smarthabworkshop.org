@@ -10,7 +10,7 @@ title: "Agenda (a work in progress)"
 | 8:15am | Welcome and Opening Remarks |
 | 8:50am | Discussion of Agenda and Objectives of the Workshop | 
 | 9:00am | Plenary Speaker: Scott Tashakkor (NASA Marshall) |
-| 9:30am | Plenary Speaker: TBD |
+| 9:30am | Plenary Speaker: Alonso Vera (NASA Ames) |
 | 10:00am | Session 1: Deep-Space Habitat Scenario Development - Collaboration and Complementation |
 |        | *Shirley Dyke (Purdue)* |
 |        | *Stephen Robinson (UC Davis)* |
