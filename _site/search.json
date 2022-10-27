@@ -49,11 +49,11 @@
     "text": "Travel and Lodging\nWe have reserved some rooms at the DobuleTree by Hilton very close to where we will have the workshop. You can use this link to book a room."
   },
   {
-    "objectID": "index.html#agenda-preliminary",
-    "href": "index.html#agenda-preliminary",
+    "objectID": "index.html#agenda",
+    "href": "index.html#agenda",
     "title": "First International Workshop on Interdisciplinary Paradigms for Semi-Autonomous Deep-Space Habitation",
-    "section": "Agenda (preliminary)",
-    "text": "Agenda (preliminary)\nWe will keep a continuously evolving agenda for the event here."
+    "section": "Agenda",
+    "text": "Agenda\nWe will keep a continuously evolving agenda for the event here."
   },
   {
     "objectID": "index.html#poster-details",
@@ -72,8 +72,8 @@
   {
     "objectID": "agenda.html",
     "href": "agenda.html",
-    "title": "Agenda (a work in progress)",
+    "title": "Agenda",
     "section": "",
-    "text": "October 14, 2022 (Day 2)\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n7:30am\nBreakfast and Summary of Day 1 / Plan for Day 2\n\n\n8:00am\nBreakout Session\n\n\n8:45am\nBreak\n\n\n9:00am\nReport Results of Breakout Session 3\n\n\n9:20am\nSession 4: Use Cases for Modular Coupled Virtual Testbed and Digital Twins in SmartHabs\n\n\n\nAli Bazzi (University of Connecticut)\n\n\n\nBrian Joyal (Veridium Inc.)\n\n\n\nMario Bergés (CMU)\n\n\n\nFernando Figueroa (NASA Stennis)\n\n\n\nShirley Dyke (Purdue)\n\n\n10:20am\nBreakout Session 4\n\n\n11:05am\nBreak\n\n\n11:20am\nReport of Breakout Session 4\n\n\n11:40am\nSummary and Path Forward\n\n\n12:00pm\nClosing Address and Lunch\n\n\n1:00pm\nDismissal"
+    "text": "October 14, 2022 (Day 2)\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n7:30am\nBreakfast and Summary of Day 1 / Plan for Day 2\n\n\n\nDawn Whitaker (Purdue)\n\n\n\nMario Bergés (CMU)\n\n\n8:00am\nSession 3: Breakout\n\n\n\nMaterials + Design Concepts for Resilient Habitats (Arturo Montoya [UTSA], Garrett Reisman [USC])\n\n\n\nPriorities for Resilience in Automation (Justin Werfel [Harvard], Nagi Gebareel [GeorgiaTech])\n\n\n\nWhat does it mean to be resilient in the context of extraterrestrial habitats? (Julio Ramirez [Purdue], Allie Anderson [CU Boulder])\n\n\n\nIncoporating Resilience in Academia, Industry, NASA and Other Agencies (Sanjay Joshi [UC Davis], Dawn whitaker [Purdue])\n\n\n8:45am\nBreak\n\n\n9:00am\nReport Results of Breakout Session 3\n\n\n9:20am\nSession 4: Use Cases for Modular Coupled Virtual Testbed and Digital Twins in SmartHabs\n\n\n\nDavide Ziviani (Purdue) – Moderator\n\n\n\nAli Bazzi (University of Connecticut)\n\n\n\nBrian Joyal (Veridium Inc.)\n\n\n\nMario Bergés (CMU)\n\n\n\nFernando Figueroa (NASA SSC)\n\n\n\nShirley Dyke (Purdue)\n\n\n10:20am\nSession 4: Breakout\n\n\n\nAddressing Modeling Limitations (Jiong Tang [UConn], Zhaodang Kong [UC Davis])\n\n\n\nTesting Resiliency with Digital Twins (Nagi Gebraeel [GeorgiaTech], Karen Marais [Purdue])\n\n\n\nSimulating Unanticipated Scenarios (Song Han [UConn], Tammer Barkouki [UC Davis])\n\n\n\nCascading Events (Ali Bazzi [UConn])\n\n\n11:05am\nBreak\n\n\n11:20am\nReport of Breakout Session 4\n\n\n11:40am\nSummary and Path Forward\n\n\n12:00pm\nClosing Address and Lunch\n\n\n\nJon Olansen (NASA JSC)\n\n\n1:00pm\nDismissal"
   }
 ]

@@ -1,5 +1,5 @@
 ---
-title: "Agenda (a work in progress)"
+title: "Agenda"
 ---
 
 ### October 13, 2022 (Day 1)
@@ -8,26 +8,45 @@ title: "Agenda (a work in progress)"
 |------|---------------|
 | 7:30am | Breakfast and Registration |
 | 8:15am | Welcome and Opening Remarks |
+|        | *Shirley Dyke (Purdue)* |
+|        | *Stephen Robinson (UC Davis)* |
+|        | *JoAnn Browning, Dean and Distinguished Chair of Engineering (UTSA)* |
+|        | *Julia Badger (NASA JSC)* | 
 | 8:50am | Discussion of Agenda and Objectives of the Workshop | 
-| 9:00am | Plenary Speaker: Scott Tashakkor (NASA Marshall) |
-| 9:30am | Plenary Speaker: Alonso Vera (NASA Ames) |
+|	 | *Dawn Whitaker (Purdue)* |
+|	 | *Mario Bergés (CMU)* |
+| 9:00am | Plenary Speaker: Scott Tashakkor (NASA MSFC) |
+| 9:30am | Plenary Speaker: Alonso Vera (NASA ARC) |
 | 10:00am | Session 1: Deep-Space Habitat Scenario Development - Collaboration and Complementation |
 |        | *Shirley Dyke (Purdue)* |
 |        | *Stephen Robinson (UC Davis)* |
-| 11:00am | Breakout Session 1 |
+| 11:00am | Session 1: Breakout |
+| 	  | ECLSS (Davide Ziviani [Purdue], Jim Nabity [CU Boulder]) |
+| 	  | Power (Ali Bazzi [Uconn], Mario Bergés [CMU]) |
+| 	  | Dormancy Transitions (Dawn Whitaker [Purdue], Allie Anderson [CU Boulder]) |
+| 	  | Cyber-Physical Testbed (Chirstian Silva [Purdue], Shirley Dyke [Purdue]) |
 | 12:00pm | Report Results of Breakout Session 1 |
 | 12:30pm | Lunch and Jobs/Career Panel |
+|        | *Stephen Robinson (UC Davis)* |
+|        | *Bill O'Hara (Blue Origin)* |
+|        | *Garrett Reisman (USC)* |
 | 1:30pm | Session 2: Roadmap for Introducing Human-Autonomy Teaming and Robotics in Intermittently Crewed Space Habitats |
-|        | *Trey Smith (NASA Ames)* |
+|	 | *Paul Parsons (Purdue)* -- **Moderator** |
+|        | *Trey Smith (NASA ARC)* |
 |        | *Julia Badger (NASA JSC)* |
-|        | *Alonso Vera (NASA Ames)* |
+|        | *Alonso Vera (NASA ARC)* |
 |        | *Allison Anderson (UC Boulder)* |
-|        | *Jeremy Frank (NASA Ames)* |
+|        | *Jeremy Frank (NASA ARC)* |
 |        | *Justin Werfel (Harvard)* |
 | 2:30pm | Session 2: Breakout |
+| 	  | Coordinating with Mission Control Beyond LEO (Paul Parsons [Purdue], Mario Bergés [CMU]) |
+| 	  | Human-robot Decision Making and Situational Awareness (Sanjay Joshi [UC Davis], Song Han [UConn]) |
+| 	  | Responding to Unanticipated Faults (Dan Bruder [Harvard], Alonso Vera [NASA ARC]) |
+| 	  | Autonomy and Explainability (Zhaodan Kong [UC Davis], Arutro Montoya [UTSA]) |
 | 3:15pm | Break |
 | 3:30pm | Report Results of Breakout Session 2 |
 | 3:50pm | Session 3: Design for Resilience in Space-based Systems |
+|	 | *Dawn Whitaker (Purdue)* -- **Moderator** |
 |        | *Karen Marais (Purdue)* |
 |        | *Jim Nabity (UC Boulder)* |
 |        | *Dan Barta (NASA JSC)* |
@@ -42,18 +61,30 @@ title: "Agenda (a work in progress)"
 | Time | Activity |
 |------|---------------|
 | 7:30am | Breakfast and Summary of Day 1 / Plan for Day 2 |
-| 8:00am | Breakout Session |
+|	 | *Dawn Whitaker (Purdue)* |
+|	 | *Mario Bergés (CMU)* |
+| 8:00am | Session 3: Breakout|
+| 	  | Materials + Design Concepts for Resilient Habitats (Arturo Montoya [UTSA], Garrett Reisman [USC]) |
+| 	  | Priorities for Resilience in Automation (Justin Werfel [Harvard], Nagi Gebareel [GeorgiaTech]) |
+| 	  | What does it mean to be resilient in the context of extraterrestrial habitats? (Julio Ramirez [Purdue], Allie Anderson [CU Boulder]) |
+| 	  | Incoporating Resilience in Academia, Industry, NASA and Other Agencies (Sanjay Joshi [UC Davis], Dawn whitaker [Purdue]) |
 | 8:45am | Break |
 | 9:00am | Report Results of Breakout Session 3 |
 | 9:20am | Session 4: Use Cases for Modular Coupled Virtual Testbed and Digital Twins in SmartHabs | 
+|	 | *Davide Ziviani (Purdue)* -- **Moderator** |
 |        | *Ali Bazzi (University of Connecticut)* |
 |        | *Brian Joyal (Veridium Inc.)* |
 |        | *Mario Bergés (CMU)* |
-|        | *Fernando Figueroa (NASA Stennis)* |
+|        | *Fernando Figueroa (NASA SSC)* |
 |        | *Shirley Dyke (Purdue)* |
-| 10:20am | Breakout Session 4 |
+| 10:20am | Session 4: Breakout |
+| 	  | Addressing Modeling Limitations (Jiong Tang [UConn], Zhaodang Kong [UC Davis]) |
+| 	  | Testing Resiliency with Digital Twins (Nagi Gebraeel [GeorgiaTech], Karen Marais [Purdue]) |
+| 	  | Simulating Unanticipated Scenarios (Song Han [UConn], Tammer Barkouki [UC Davis]) |
+| 	  | Cascading Events (Ali Bazzi [UConn]) |
 | 11:05am | Break |
 | 11:20am | Report of Breakout Session 4 | 
 | 11:40am | Summary and Path Forward | 
 | 12:00pm | Closing Address and Lunch |
+|         | *Jon Olansen (NASA JSC)* |
 | 1:00pm | Dismissal |
